@@ -1,0 +1,18 @@
+#container {
+    display: flex;
+    flex-direction: column;
+}
+
+#container > div {
+    display: flex;
+}
+
+div div div {
+    background-color: lightgray;
+    padding: 8px;
+    border: solid white 2px;
+}
+
+.activate {
+    background-color: blueviolet;
+}
