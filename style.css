@@ -9,8 +9,7 @@
 
 div div div {
     background-color: lightgray;
-    padding: 8px;
-    border: solid white 2px;
+    /* border: solid white 2px; */
 }
 
 .activate {
